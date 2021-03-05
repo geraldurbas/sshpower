@@ -1,0 +1,3 @@
+# LocalPort TargetHost TargetPort SshHost SshUsername SshKeyPath
+1 1001 10.10.10.15 443 10.11.10.1 yourname yourname.pkk
+1 5900 10.10.10.15 5900 10.11.10.1 yourname yourname.pkk
